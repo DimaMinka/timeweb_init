@@ -29,6 +29,10 @@ app:
         package: wp-cli
         ver: *
         zip: ""
+      - name: exit-intent-popups-by-optimonk
+        package: wp-cli
+        ver: *
+        zip: ""
       - name: woocommerce
         package: wp-cli
         ver: *
