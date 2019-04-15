@@ -17,7 +17,7 @@ app:
     shell: false
     plugins: true
     theme: true
-    settings: true
+    settings: false
     extra: false
     
   env:
