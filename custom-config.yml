@@ -29,7 +29,7 @@ app:
         package: wp-cli
         ver: *
         zip: ""
-      - name: exit-intent-popups-by-optimonk
+      - name: optimole-wp
         package: wp-cli
         ver: *
         zip: ""
